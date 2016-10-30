@@ -1,0 +1,55 @@
+body {
+  background: #2c3e50;
+}
+
+a {
+  color: inherit;
+  visited: inherit;
+}
+
+h2 {
+  color: #ecf0f1;
+}
+
+h6 {
+  color: #7f8c8d;
+}
+
+.showgreen {
+  background: #2ecc71;
+}
+
+.showred {
+  background: #e74c3c;
+}
+
+.icon {
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.icon-box {
+  width: 80px;
+  height: 60px;
+  padding-top: 5px;
+}
+
+.username {
+  width: 130px;
+  height: 60px;
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.info {
+  height: 60px;
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+ 
+}
+
+.dash {
+  border-bottom: 1px dashed #e67e22;
+}
